@@ -4,19 +4,19 @@ body, html{
 }
 
 .header{
-  background-color: aquamarine;
+  background-color: green;
   text-align: center;
   border: 3px solid green;
   font-size: larger;
 }
 
 .input{
-  background-color:aqua;
+  background-color:green;
   text-align: center;
 }
 
 .body{
-  background-color: aqua;
+  background-color: green;
   position:absolute;
   top: 73px;
   bottom: 0px;
